@@ -1,7 +1,7 @@
 # 🌟 About Me
 Hi, I’m a FiveM server developer with experience in creating and managing roleplay servers.
 
-"I’ve been working in India for a long time, specializing in FiveM roleplay server development and management."
+"I’ve been working in this field for many years, specializing in FiveM roleplay server development and management."
 
 ---
 
