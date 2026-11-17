@@ -1,7 +1,10 @@
 # 🌟 About Me
 Hi, I’m a FiveM Server Developer with extensive experience in building and managing roleplay servers.
 
-I’ve been working in this field for several years, specializing in custom server development, performance optimization, and full server management. My focus is on creating stable, immersive, and high-performance roleplay experiences.
+I’ve been working in this field for several years, specializing in custom server
+development, performance optimization, and full server management.
+My focus is on creating stable, immersive, and high-performance roleplay experiences.experiences
+
 ---
 
 # Tech Stack
